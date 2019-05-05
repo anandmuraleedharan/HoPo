@@ -1,0 +1,9 @@
+The design of an Infrastructure Maintenance and Monitoring System christened HoPo. The project is part of the Systems Analysis and Project Management [MIS6308] course at JSOM, UTD. The Information system was aimed at collecting real-time data on the current state of infrastructure using an automated mechanism. The Information system will act as a single source of truth on Infrastructure status for the Federal Government. 
+
+The design of the Project included the following key deliverables:
+1. UML diagrams --> Context Diagram, Activity Diagram, Usecase diagram, Usecase description, Class Diagram, Data dictionary, Sequence diagram, Collaboration diagram, Statechart diagram
+2. BPMN diagrams --> Choreography diagram with Pools, Process Diagram with Pools 
+3. Database Design and Entity Relationship diagram 
+4. UX design and UI Interface mocks
+
+The project was administered using the UML case tool called Visual Paradigm.
